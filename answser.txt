@@ -1,0 +1,9 @@
+profile.html:
+The CSS property is background-color, and the hex color code is #0f172a (dark navy blue).
+.title uses color: #38bdf8;
+When hovered over, the button's background changes from light blue to dark blue, and the text turns white
+
+event.html
+The CSS property is border, and the color #ec4899 is bright pink
+The property is font-size, and the value is 1.8rem
+The property is border-radius, with a value of 20px
